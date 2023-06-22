@@ -31,5 +31,10 @@ Projects available here would be publically available so anyone can view them.
 | micro-frontend | SingleSpa |
 | poet-experiments | |
 | gradle-plugins | |
-| github-workflows | |
+| [github-workflows](https://github.com/the-experimentals/github-workflows) | |
 | azure-pipeline-workflows | |
+
+## Code practices and problem solving
+| Project | Framework |
+| :-- | :-- |
+| [competative-problems](https://github.com/the-experimentals/competative-problems) | |
