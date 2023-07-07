@@ -28,6 +28,7 @@ Projects available here would be publically available so anyone can view them.
 | :-- | :-- |
 | mockups-react | React |
 | mockups | Angular |
+| [todo-vue](https://github.com/the-experimentals/todo-vue) | Vue.js |
 | micro-frontend | SingleSpa |
 | poet-experiments | |
 | gradle-plugins | |
